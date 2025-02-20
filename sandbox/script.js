@@ -55,3 +55,14 @@ console.log (n1);
 
 console.log (parseInt(n1));
 console.log(parseFloat("40"));
+
+
+let idade = 18
+
+if (idade < 18) {
+    console.log("menor de idade.");
+} else if (idade ===18) {
+    console.log("acabou de atingir a maior idade");
+ } else {
+    console.log("maior de idade");
+ }
